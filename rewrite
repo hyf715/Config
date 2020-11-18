@@ -1,5 +1,0 @@
-hostname = api.abema.io
-
-# Redirect Google Search Service
-^(http|https):\/\/(www.)?(g|google)\.hk url 302 https://www.google.com
-
