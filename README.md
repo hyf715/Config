@@ -4,9 +4,7 @@ Quantumlt-X-rewrite
 
 Rocket-rewrite
 
-------
-
-## Code used in Scriptable Widget
+# Code used in Scriptable Widget
 
 Image Widget.js refer to [Art Widget.js](https://talk.automators.fm/t/widget-examples/7994/427)
 
