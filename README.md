@@ -2,7 +2,7 @@
 
 Quantumlt-X-rewrite
 
-Rocket-rewrite
+[Rocket](https://github.com/h2y/Shadowrocket-ADBlock-Rules)-rewrite
 
 # Code used in Scriptable Widget
 
